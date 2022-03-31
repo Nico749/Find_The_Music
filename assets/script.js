@@ -1,5 +1,4 @@
-// apikeys for google and Ticket Master
-
+// apikey Ticket Master
 const apiKeyTM = "8gCIaWZY4lHT8Aj0NRXlEobIThAGmNGO";
 // variables
 const currentTimeDiv = document.getElementById("current-date-time");

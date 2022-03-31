@@ -2,10 +2,11 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [API Used](#api-used)
 * [Description](#description)
 * [Working Application](#working-application)
 * [Demo](#demo)
+* [License](#license)
+* [Contact Me](#contact-me)
 
 
 ## General info
@@ -13,13 +14,6 @@ The project is a web application which allows users to search for music events i
 
 The application was created using HTML and Vanilla Javascript, using Third-Party API
 
-
-## API used
-
-<li>Google Maps </li>
-<li> TicketMaster </li>
-
-</br>
 
 ## Description
 The project:
@@ -35,16 +29,21 @@ The project:
 
 ## Working Application
 
-The working app can be viewed [here] (https://findthemusic.herokuapp.com)
-
+The working app can be viewed <a href = "https://findthemusic.herokuapp.com"> here </a>
 
 ## Demo
-<img src="./assets/eventfinder-home.png" />
+
 <img src= "./assets/eventfinder-search.png"/>
 
+## Room For Improvement
+<li>Login and signup function
+<li>Show the distance from an event
 
-The design of the application is responsive, with the contents adjusting for best view on different screen sizes:
+## License
 
-</br>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Distributed under MIT License.
 
-<img src = "./assets/eventfinder-mobileview.png"/>
+## Contact me 
+
+Created by [Nico Pasqualini](https://nico749.github.io/Personal-portfolio-/) - feel free to contact me!
