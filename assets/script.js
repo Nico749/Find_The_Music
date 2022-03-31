@@ -1,5 +1,4 @@
 // apikeys for google and Ticket Master
-const apiKeyG = "AIzaSyB_D-vYgXQkvUL4VbJzERanzU72d5XjJr0";
 
 const apiKeyTM = "8gCIaWZY4lHT8Aj0NRXlEobIThAGmNGO";
 // variables

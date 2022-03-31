@@ -9,19 +9,10 @@
 
 
 ## General info
-The project is a web application which allows users to search for events in their chosen cities, and displays the locations of these events using markers on a map.
+The project is a web application which allows users to search for music events in their chosen cities, and displays the locations of these events using markers on a map.
 
-The application was created using HTML and Javascript, as well as CSS and Bulma CSS framework.
-</br>
+The application was created using HTML and Vanilla Javascript, using Third-Party API
 
-The project was motivated by the following USER STORY:
-</br>
-AS A person who is interested in music events
-</br>
-I WANT to find music events in the location of my choice,
-</br>
-THEN I want to see their location on a map, in relation to my searched location
-</br>
 
 ## API used
 
@@ -32,7 +23,7 @@ THEN I want to see their location on a map, in relation to my searched location
 
 ## Description
 The project:
-
+<ul>
 <li> uses geolocation to locate the user's machine, and pans to that location on a map, as soon as the page is opened </li>
 <li> allows the user to search for events based on their chosen city by using the Ticketmaster API </li>
 <li> displays a list of 10 events, with artist name, date and time </li>
@@ -40,14 +31,12 @@ The project:
 <li> saves a list of the user's searches and displays the most recent five searches at the bottom of the page </li>
 <li> allows the user to click on any of their most recent searches to quickly retrieve information about events in that city </li>
 </li>
-</br>
-</br>
+</ul>
 
 ## Working Application
-The project can be viewed at: <a href="https://ekubik.github.io/event-finder/">https://ekubik.github.io/event-finder/ </a>
 
-</br>
-</br>
+The working app can be viewed [here] (https://nico749.github.io/Find_The_Music/)
+
 
 ## Demo
 <img src="./assets/eventfinder-home.png" />
