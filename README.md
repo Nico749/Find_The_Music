@@ -35,7 +35,7 @@ The project:
 
 ## Working Application
 
-The working app can be viewed [here] (https://nico749.github.io/Find_The_Music/)
+The working app can be viewed [here] (https://findthemusic.herokuapp.com)
 
 
 ## Demo
