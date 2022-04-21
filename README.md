@@ -1,4 +1,4 @@
-# Event Finder
+# Find The Music
 
 ## Table of contents
 * [General info](#general-info)
